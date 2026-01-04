@@ -90335,7 +90335,7 @@ A.ac5.prototype={
 $2(a,b){return a+b.c*b.e},
 $S:104}
 A.MU.prototype={
-H(a){return new A.zg(B.OU,new A.abC(),"Flutter Demo",A.vk(null,A.aJJ(B.a9,B.br),!0),!1,null)}}
+H(a){return new A.zg(B.OU,new A.abC(),"Druvatara Gem",A.vk(null,A.aJJ(B.a9,B.br),!0),!1,null)}}
 A.abC.prototype={
 $2(a,b){var s=null
 return A.d9(s,A.hO(new A.dS(B.B2,b,s),s,s),B.p,B.iM,s,s,s,s,s,s,s,s,s,s)},
